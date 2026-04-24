@@ -13,6 +13,8 @@ const TERRAIN_CONFIG = {
 		passable: false,
 		fill: "rgba(153, 164, 173, 0.92)"
 	},
+
+	
 	start: {
 		label: "Start",
 		cost: 1,
